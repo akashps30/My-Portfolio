@@ -203,7 +203,7 @@ section .title::after{
     margin: 5px 0;
 }
 .home .home-content .text-3 span{
-    color: #008080;
+    color: #5fd6d6;
     font-weight: 500;
 }
 .home .home-content a{
@@ -245,7 +245,7 @@ section .title::after{
     margin-bottom: 10px;
 }
 .about .about-content .right .text span{
-    color: #008080;
+    color: #5fd6d6;
 }
 .about .about-content .right p{
     text-align: justify;
